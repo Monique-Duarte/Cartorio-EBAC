@@ -1,2 +1,1 @@
-# Cartorio-EBAC
-Projeto do curso de TI da EBAC
+O repositório Cartorio-EBAC é um projeto que simula a funcionalidade de um cartório, permitindo o gerenciamento de documentos e serviços relacionados. O objetivo é criar uma aplicação que facilite o acesso e a organização de informações cartoriais.
